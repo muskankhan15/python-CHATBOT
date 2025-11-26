@@ -1,4 +1,4 @@
-🧠 AI Chatbot using Google Generative AI (Gemini 2.5 Flash)
+# 🧠 AI Chatbot using Google Generative AI (Gemini 2.5 Flash)
 
 This project is a simple yet powerful command-line AI assistant built using Google Generative AI (Gemini 2.5 Flash). It allows users to enter any query and receive intelligent responses in real time. The program runs continuously until the user types "exit", making it a lightweight interactive chatbot.
 
